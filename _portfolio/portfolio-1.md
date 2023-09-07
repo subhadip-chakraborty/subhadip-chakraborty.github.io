@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/nm.png'>"
+excerpt: "Criticality and Entanglement in Noisy Random Quantum Circuits 1<br/><img src='/images/nm.png'>"
 collection: portfolio
 ---
 
