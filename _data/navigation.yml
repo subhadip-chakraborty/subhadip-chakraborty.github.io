@@ -8,15 +8,17 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
+  - title: "CV"
+    url: /cv/
+
     
-  - title: "Projetects"
+  - title: "Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ 
     
   # - title: "Guide"
   #   url: /markdown/
