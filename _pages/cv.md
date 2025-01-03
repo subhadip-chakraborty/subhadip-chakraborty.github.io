@@ -12,8 +12,8 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* PhD Student: Research Assistant
+  * University of Regensburg
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
